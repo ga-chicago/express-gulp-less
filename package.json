@@ -1,0 +1,19 @@
+{
+  "name": "express-gulp-less",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0",
+    "gulp-watch": "^4.3.11"
+  },
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
