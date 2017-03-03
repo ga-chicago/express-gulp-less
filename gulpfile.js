@@ -31,3 +31,15 @@ gulp.task('default', ['compile-less', 'whatever', 'watch'])
 
 
 
+// [
+//   {
+//     "name": "aruglaa",
+//     "description": "green and leafy",
+//     "yumminess": true,
+//     "someArray": ["this is stuff", "I could be stuff", "were all star stuff"],
+//     "carlSagan": "is dead"
+//   },
+//   {
+//     "jerry": "seinfeld"
+//   }
+// ]
